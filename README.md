@@ -1,6 +1,7 @@
 Team Members:
  
 * Doug Moore - dglmoore
+* Yanbo Zhang - Zhangyanbo
 * Jake Hanson - jakehanson
 * Enrico Borriello - EnricoBorriello
 * Camerian Millsaps - cmillsap

@@ -6,4 +6,5 @@ Team Members:
 * Enrico Borriello - EnricoBorriello
 * Camerian Millsaps - cmillsap
 * Hyunju Kim - hkim8
-* Fohn Malloy - jfmalloy1
+* John Malloy - jfmalloy1
+* Tessa Fisher - tessarion87
